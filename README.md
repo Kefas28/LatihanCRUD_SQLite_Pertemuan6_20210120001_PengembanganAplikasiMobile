@@ -1,16 +1,4 @@
-# crud_apps
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# CRUD SQLITE FLUTTER
+![Screenshot 2023-12-14 092225](https://github.com/Kefas28/LatihanCRUD_SQLite_Pertemuan8_20210120001_PengembanganAplikasiMobile/assets/106581088/431b1623-5d25-4b62-974a-455fc4f5e9ff)
+![Screenshot 2023-12-14 092211](https://github.com/Kefas28/LatihanCRUD_SQLite_Pertemuan8_20210120001_PengembanganAplikasiMobile/assets/106581088/bac7f09b-2b9a-4c13-b884-c95d653b33b6)
+![Screenshot 2023-12-14 092158](https://github.com/Kefas28/LatihanCRUD_SQLite_Pertemuan8_20210120001_PengembanganAplikasiMobile/assets/106581088/6f68658c-1eab-480f-87f4-0b87bc0de639)
